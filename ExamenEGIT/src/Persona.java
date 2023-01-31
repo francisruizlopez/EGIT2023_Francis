@@ -14,5 +14,9 @@ public class Persona {
 	void metodoRama2() {
 		
 	}
+	
+	void datosPersona() {
+		
+	}
 
 }
